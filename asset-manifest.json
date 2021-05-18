@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modern-dawn-blog/static/css/main.cfa08aa7.chunk.css",
+    "main.js": "/modern-dawn-blog/static/js/main.74e1e487.chunk.js",
+    "main.js.map": "/modern-dawn-blog/static/js/main.74e1e487.chunk.js.map",
+    "runtime-main.js": "/modern-dawn-blog/static/js/runtime-main.3ecc9647.js",
+    "runtime-main.js.map": "/modern-dawn-blog/static/js/runtime-main.3ecc9647.js.map",
+    "static/js/2.a97780e2.chunk.js": "/modern-dawn-blog/static/js/2.a97780e2.chunk.js",
+    "static/js/2.a97780e2.chunk.js.map": "/modern-dawn-blog/static/js/2.a97780e2.chunk.js.map",
+    "index.html": "/modern-dawn-blog/index.html",
+    "precache-manifest.05b9fcf126bf1e5f03590b03d64c75be.js": "/modern-dawn-blog/precache-manifest.05b9fcf126bf1e5f03590b03d64c75be.js",
+    "service-worker.js": "/modern-dawn-blog/service-worker.js",
+    "static/css/main.cfa08aa7.chunk.css.map": "/modern-dawn-blog/static/css/main.cfa08aa7.chunk.css.map",
+    "static/js/2.a97780e2.chunk.js.LICENSE": "/modern-dawn-blog/static/js/2.a97780e2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ecc9647.js",
+    "static/js/2.a97780e2.chunk.js",
+    "static/css/main.cfa08aa7.chunk.css",
+    "static/js/main.74e1e487.chunk.js"
+  ]
+}
